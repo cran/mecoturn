@@ -1,0 +1,11 @@
+fb1b394d0163cbdd490a007f6d59b082 *DESCRIPTION
+2b09abc5860e2041ab4305fc3300d8c8 *NAMESPACE
+c9e9a4f1eb715d34f29d5d33f482a7f5 *R/betaturn.R
+c4621ab3d1b3c2fd5c3bab10511e480d *R/data.R
+0e5ba325a508df2e78a464113bd97357 *R/import.R
+660fc9ec7cc2c6902d212382d07383cc *R/taxaturn.R
+e5a44b6bc51c951bc059546ec2b0a76f *data/wheat_16S.RData
+56740faff9395b9e85a1a55e16e536aa *inst/CITATION
+ce2478a92e1ab7c84ba81ee641257f1a *man/betaturn.Rd
+190a5226cafd0f0bd81b38813d8e9f1f *man/taxaturn.Rd
+4784e69e4bb67e34406029e4b2726e91 *man/wheat_16S.Rd
